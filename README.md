@@ -4,4 +4,4 @@
 
 [View site](https://cosmic-kashata-f6e033.netlify.app/)
 
-![guess-my-number](https://github.com/anjorrao/pig-game/blob/main/screenshot.PNG?raw=true)
+![pig-game](https://github.com/anjorrao/pig-game/blob/main/screenshot.PNG?raw=true)
